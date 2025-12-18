@@ -9,7 +9,6 @@
     <img align="right" src="QUANTUM LIGHT.gif" width="350">
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jay6200800153&label=Profile%20views&color=0e75b6&style=flat" alt="jay6200800153" /> </p>
 
 - 🌱 I’m currently learning *Power BI, MYSQL, Python, Statistics and Machine Learning, Data Science Essentials*
 
