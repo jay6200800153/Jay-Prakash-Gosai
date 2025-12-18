@@ -2,7 +2,7 @@
   <img src="Data science.png" alt="GitHub Banner" width="100%" height="400" />
 </p>
 
-<h1 align="center">Hi 👋🙏, I'm Jay Prakash Gosai</h1>
+<h1 align="center">Hi 👋 I'm Jay Prakash Gosai</h1>
 <h3 align="center">Data Science Student | Focused on Python, MYSQL & Machine Learning from India</h3>
 
 <a href="https://medium.com/@audreyx/ai-just-solved-quantum-computings-hardest-problem-and-started-a-new-supercomputing-arms-race-837adee7521c" target="_blank">
